@@ -1,2 +1,3 @@
 requests
 Flask
+git+https://github.com/nsknv/pywrite
